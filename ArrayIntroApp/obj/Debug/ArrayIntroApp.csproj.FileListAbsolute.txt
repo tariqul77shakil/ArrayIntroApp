@@ -1,0 +1,6 @@
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.exe.config
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.exe
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\bin\Debug\ArrayIntroApp.pdb
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.csprojResolveAssemblyReference.cache
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.exe
+G:\Shakil(Dotnet)\My Test Dot Net\18.04.15(Day 02)\ArrayIntroApp\ArrayIntroApp\obj\Debug\ArrayIntroApp.pdb
